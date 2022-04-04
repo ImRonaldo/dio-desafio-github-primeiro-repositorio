@@ -1,0 +1,11 @@
+# Comandos para Git
+
+- Git Status
+- Git Add
+- Commit
+- Git Push
+- Git Pull
+- Git Clone
+- mv = mover arquivo
+- cd = mudança de diretório
+- cd .. = voltar ao diretório anterior

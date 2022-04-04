@@ -1,0 +1,6 @@
+# Data: 04/04/2022
+[Link para download do git:](https://git-scm.com/downloads)
+Git Bash = Terminal Extendido para otimizar o uso do Git.
+
+_________________________________________________________
+
